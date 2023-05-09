@@ -26,11 +26,3 @@ Automated API testing for USER UNIT AND PROVIDER MANAGEMENT.<br>
 Generates a txt report in a project root directory.<br>
 
 
-## Notes
-PUT request seems to not work<br>
-Users are sorted from the oldest<br>
-Units are sorted from the newest<br>
-Providers are sorted alphabetically<br>
-
-
-
